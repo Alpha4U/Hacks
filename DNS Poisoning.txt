@@ -1,0 +1,11 @@
+There is a file called hosts located at.....................
+C:\windows\system32\drivers\etc
+we can place a website and ip in front of it. Bu doing this we want our browser to take us to host located at that ip when that website name would be entered. I mean request to resolve ip of website is not sent to DNS (Domain Name Server) if the name of the website in the host file.
+
+@echo off
+echo xxx.xxx.xxx.xxx
+www.anything.com>C:\windows\system32\drivers\etc\hosts
+// this command prints or add xxx.xxx.xxx.xxx www.anything.com in hosts file
+
+Replace xxx.xxx.xxx.xxx and www.anything.com with ip address and website of your choice. You can take/redirect victim to any post located at specific ip when he would try to log on to specific website or you can simply block any website by entering its name and any invalid ip address.
+

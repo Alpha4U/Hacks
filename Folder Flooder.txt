@@ -1,0 +1,8 @@
+@echo off
+:x
+md %random%  // makes directory or folder
+goto x
+
+
+
+Here %random% is a variable that would generate a positive number randomly. So this code would make start creating folders whose name can be any random number. 

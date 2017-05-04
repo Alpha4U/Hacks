@@ -1,0 +1,17 @@
+// put any batch file in startup folder and it will execute at conmputer startup
+
+// we can also call another batch file's code from one batch file.
+
+Startup Folder Location
+
+
+for Win XP
+C:\Documents and Settings\Administrator or All Users\Start Menu\Programs\Startup
+
+for Win 7
+C:\Users\sys\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+
+Note > Files in the startup folder starts automatically when computer starts. You should put copy your batch file to startup folder in every code.
+
+Everytime computer starts batch file runs. You can remove the viruses of startup by booting the computer in safe mode and deleting the batch file from startup folder.

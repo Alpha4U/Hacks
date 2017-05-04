@@ -1,0 +1,3 @@
+What can Batch viruses do ?
+
+They can be used to delete the windows files, format data, steal information, irritate victim, consume CPU resources to affect performance, disable firewalls, open ports, modify or destroy registry and for many more purposes.

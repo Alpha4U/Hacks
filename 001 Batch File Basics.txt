@@ -1,0 +1,22 @@
+Run > cmd > ok
+
+type > cd desktop  // to reach desktop
+type > md x // it will make a directory on the desktop with the name x
+type > cd x // change current directory to x
+type > md y // makes a directory y in directory x
+type > cd..
+type > rd x
+
+if we put these commands in a batch file then commands will be executed line by line as we double click on that batch file.
+
+Definition = A batch file is simply a text containing series of commands which are executed automatically line by line when the batch file is run.
+
+
+
+Note = extension must be '.bat' and save it as 'all files' instead of text files. Type help in cmd to know more basic commands 
+
+To know about using a particular command type
+'command_name/?' without quotes
+Eg. cd/?
+
+

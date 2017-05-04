@@ -1,0 +1,5 @@
+Limitations
+
+# victim can easily read the commands by opening batch file in notepad.
+# the cmd screen pops up it alerts the victim and he can stop it.
+# to overcome these limitations we need to convert these files into executable files that is exe files.

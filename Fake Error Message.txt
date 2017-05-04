@@ -1,0 +1,7 @@
+1 - Open notepad
+2 - type > msg %UserName% Virus Detected In Windows Folder
+3 - Save as " anything.bat "
+4 - Using WScript
+5 - open notepad
+6 - type > MsgBox("Virus Detected In Windows Folder",16,"Virus Detected") 
+7 - save it as anything.vbs
